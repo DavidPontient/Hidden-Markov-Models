@@ -1,4 +1,4 @@
-# Hidden-Markov-Models
+# Hidden-Markov-Models 
 Modeling Human Activity States with a Hidden Markov Model
 Modeling Human Activity States Using Hidden Markov Models
 
