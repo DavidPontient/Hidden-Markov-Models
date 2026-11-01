@@ -1,0 +1,34 @@
+{
+  "sampling_rate_hz": 100,
+  "window_seconds": 2.0,
+  "overlap": 0.5,
+  "n_features": 16,
+  "features": [
+    "acc_mean_mag",
+    "acc_std_mag",
+    "acc_rms_mag",
+    "acc_sma",
+    "acc_corr_abs",
+    "acc_dom_freq",
+    "acc_spec_energy",
+    "acc_spec_entropy",
+    "gyro_mean_mag",
+    "gyro_std_mag",
+    "gyro_rms_mag",
+    "gyro_sma",
+    "gyro_corr_abs",
+    "gyro_dom_freq",
+    "gyro_spec_energy",
+    "gyro_spec_entropy"
+  ],
+  "baum_welch_iterations": 11,
+  "baum_welch_converged": true,
+  "final_loglik_per_window": -2.259281354468523,
+  "pi": {
+    "standing": 0.3,
+    "walking": 0.2166,
+    "jumping": 0.2333,
+    "still": 0.25
+  },
+  "overall_test_accuracy": 0.9683
+}
