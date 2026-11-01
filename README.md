@@ -46,6 +46,12 @@ Still	13	0.8462	1.0000	0.9683
 
 Both mistakes are the last still window of a test file, decoded as standing. At the end of each recording I reached for the phone to stop it, so that window contains a little real movement. The test files come from the same phone, the same person and the same day, so this does not prove that the model works for other people.
 
+Activity	Video link
+Standing	https://youtube.com/shorts/VZj02NgXXms?feature=share
+Walking	https://youtube.com/shorts/1XH1wIZqcSI?feature=share
+Jumping	https://youtube.com/shorts/maRzpEFqmYc?feature=share
+Still (no movement)	https://youtube.com/shorts/9UcsPFohE3Y?feature=share
+
 How to run the notebook
 Install Python and the packages: pip install numpy pandas matplotlib jupyter
 Keep hmm_activity.ipynb and the raw_zips folder together in one folder.
